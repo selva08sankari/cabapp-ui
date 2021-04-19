@@ -9,8 +9,8 @@
 <label>Select Cab Type:</label>
 <select name="cabtype" required>
 	<option disabled>--Select cab type--</option>
-	<option value= "Micro" >Micro</option> 
-	<option value="Mini" >Mini</option>
+	<option value= "Micro">Micro</option> 
+	<option value="Mini">Mini</option>
 	<option value="Prime">Prime</option> 
 </select>
 	<br/><br/>
