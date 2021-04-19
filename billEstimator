@@ -8,14 +8,14 @@
 <form>
 <label>Select Cab Type:</label>
 <select name="cabtype" required>
-	<option disabled>--Select cab type--</option>
-	<option value= "Micro">Micro</option> 
-	<option value="Mini">Mini</option>
-	<option value="Prime">Prime</option> 
+<option disabled>--Select cab type--</option>
+<option value= "Micro">Micro</option> 
+<option value="Mini">Mini</option>
+<option value="Prime">Prime</option> 
 </select>
-	<br/><br/>
-	<label>Enter kms :</label>
-	<input type="number" name="noofkm" id="km" placeholder="no of kms" required><br /> <br />
+<br/><br/>
+<label>Enter kms :</label>
+<input type="number" name="noofkm" id="km" placeholder="no of kms" required><br /> <br />
 <button>Next</button>
 </form>
 
